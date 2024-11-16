@@ -8,6 +8,7 @@ import org.testng.Reporter;
 import org.testng.annotations.Test;
 
 public class DucatiTest {
+	//modified DucatiBike class on GitHub
 	@Test
 	public void ducati() {
 		WebDriver driver=new ChromeDriver();
