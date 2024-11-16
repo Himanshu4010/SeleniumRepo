@@ -10,8 +10,8 @@ public class FIrstProgramOnGitHub {
 	public void display()
 	{
 		WebDriver driver =new ChromeDriver();
-		driver.get("www.fikfap.com");
-		Reporter.log("After navigating to this url mooth maring is compulsory",true);
+		driver.get("www.instagram.com");
+		Reporter.log("After navigating to this url instagram will open",true);
 	}
 	
 
